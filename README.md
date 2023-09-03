@@ -1,0 +1,2 @@
+# go_generate_tool
+根据mysql数据库字段生成CURD业务代码
